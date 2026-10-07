@@ -1,0 +1,6 @@
+{
+  "name": "Aura — Minimal Routine & Habit Tracker",
+  "description": "A minimalist daily routine builder, micro-habit tracker, focus timer, and visual streak journal for building intentional habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
